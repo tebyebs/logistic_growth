@@ -9,10 +9,10 @@
    Results: By plotting the data, and applying a linear model to it at different time points we can deduce the various parameter values: 
    - $N_0$: Using Model 1, we find the intercept (6.883), as this represents $ln(N_0)$ since $t = 0$ in the equation $`ln(N) = ln(N_0) + rt`$. Therefore, $N_0$ = $e$^6.883 or ~975.55
    - $K$: Using Model 2, we know that $` N(t) = K + 0 \cdot t `$ therefore $K = 6.00e + 10$ as this is the maximum $N$ at very large $t$.
-   - $r$: Using model 1, can derive the coefficient of $t$ in $`ln(N) = ln(N_0) + rt`$, therefore $r = 1.004e-02$
+   - $r$: Using model 1, we can derive the coefficient of $t$ in $`ln(N) = ln(N_0) + rt`$, therefore $r = 1.004e-02$
    
+2)
 3)
-4)
 
 
 ## DO FOUR IN OTHER SHEET
