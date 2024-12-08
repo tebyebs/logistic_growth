@@ -8,11 +8,12 @@
 
    Results: By plotting the data, and applying a linear model to it at different time points we can deduce the various parameter values: 
    - $N_0$: Using Model 1, we find the intercept (6.883), as this represents $ln(N_0)$ since $t = 0$ in the equation $`ln(N) = ln(N_0) + rt`$. Therefore, $N_0$ = $e$^6.883 or ~975.55
-   - $K$: Using Model 2, we know that $` N(t) = K + 0 \cdot t `$ therefore $K = 6.00e + 10$ as this is the maximum $N$ at very large $t$.
-   - $r$: Using model 1, we can derive the coefficient of $t$ in $`ln(N) = ln(N_0) + rt`$, therefore $r = 1.004e-02$
+   - $K$: Using Model 2, we know that $` N(t) = K + 0 \cdot t `$ therefore $K = 6.00e + 10$ or $6.00 × 10^{10}$ as this is the maximum $N$ at very large $t$.
+   - $r$: Using model 1, we can derive the coefficient of $t$ in $`ln(N) = ln(N_0) + rt`$, therefore $r = 1.004e-02$ or $1.004 × 10^{-2}$
    
-2)
-3)
+2) The exponential growth equation is $N(t) = N_0 e^{rt}$. Plugging in our estimates of $N_0$ and $r$ from above, as well as setting $t = 4980$, we get $N(t) = 5.054×10^{24}$. This value is significantly higher than the value predicted under the logistic growth model $N(t) = \frac{K N_0 e^{rt}}{K-N_0+N_0 e^{rt}}$, which is $N(t) = 6×10^{10}$. This difference of 14 orders of magnitude is because the logistic model takes into account the fact that growth will not remain exponential (due to food scarcity/competition).
+
+3) 
 
 
 ## DO FOUR IN OTHER SHEET
