@@ -13,7 +13,10 @@
    
 2) The exponential growth equation is $N(t) = N_0 e^{rt}$. Plugging in our estimates of $N_0$ and $r$ from above, as well as setting $t = 4980$, we get $N(t) = 5.054×10^{24}$. This value is significantly higher than the value predicted under the logistic growth model $N(t) = \frac{K N_0 e^{rt}}{K-N_0+N_0 e^{rt}}$, which is $N(t) = 6×10^{10}$. This difference of 14 orders of magnitude is because the logistic model takes into account the fact that growth will not remain exponential (due to food scarcity/competition).
 
-3) 
+3)
+<p align="center">
+<img src="https://github.com/tebyebs/logistic_growth/blob/main/images/Rplot.png" width="800" height="500">
+</p>
 
 
 ## DO FOUR IN OTHER SHEET
