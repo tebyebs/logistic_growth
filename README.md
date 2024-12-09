@@ -15,6 +15,6 @@
 
 3) The red represents the logistic model, whereas the blue line represents the exponential model.
 <p align="center">
-<img src="https://github.com/tebyebs/logistic_growth/blob/main/Rplot.png" width="500" height="437">
+<img src="https://github.com/tebyebs/logistic_growth/blob/main/Q3.png" width="457" height="407">
 </p>
 
